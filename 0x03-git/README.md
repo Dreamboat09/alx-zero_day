@@ -1,1 +1,1 @@
-first git project
+git ignore
