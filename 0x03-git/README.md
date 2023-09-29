@@ -1,1 +1,1 @@
-git ignore
+first commit from github
